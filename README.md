@@ -1,2 +1,2 @@
 # fsd
-fsd is not good
+fsd is good
